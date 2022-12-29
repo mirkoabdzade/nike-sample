@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Proxima-regular;
+    src: url("../fonts/proxima/Proxima.otf");
+}
+
+@font-face {
+    font-family: Proxima-light;
+    src: url("../fonts/proxima/ProximaLight.otf");
+}
+
+@font-face {
+    font-family: Montserrat-regular;
+    src: url("../fonts/montserrat/Montserrat.otf");
+}

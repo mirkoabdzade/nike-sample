@@ -1,0 +1,12 @@
+:root {
+    --web-white-color: #fff;
+    --web-primary-color: #783c10;
+    --web-secondary-color: #5cb85c;
+    --web-text-color: #333;
+    --web-muted-color: #eaeaea;
+    --web-transition: .2s linear;
+    --web-header-size: 300px;
+
+    --web-breakpoint-mobile: 768px;
+    --web-breakpoint-tablet: 1024px;
+}
